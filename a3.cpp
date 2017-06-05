@@ -1,4 +1,4 @@
-// B657 assignment 3 skeleton code, D. Crandall
+
 //
 // Compile with: "make"
 //
